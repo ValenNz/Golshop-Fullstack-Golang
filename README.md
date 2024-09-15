@@ -1,19 +1,18 @@
-Here's a sample README for your "Golshop-Fullstack-Golang" project. You can modify it according to your project's specifics:
-
-```markdown
 # Golshop Fullstack Golang
 
 Golshop is a full-stack e-commerce application built using Golang for the backend and modern web technologies for the frontend. This project aims to provide a seamless shopping experience while showcasing the capabilities of Golang in web development.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+- [Golshop Fullstack Golang](#golshop-fullstack-golang)
+	- [Table of Contents](#table-of-contents)
+	- [Features](#features)
+	- [Technologies Used](#technologies-used)
+	- [Installation](#installation)
+	- [Usage](#usage)
+	- [API Endpoints](#api-endpoints)
+	- [Contributing](#contributing)
+	- [License](#license)
 
 ## Features
 
@@ -98,7 +97,3 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Feel free to adjust any section to better fit your project's specifics!
